@@ -55,7 +55,7 @@ ROOT_URLCONF = 'django_virtual.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ['C:\Documentos\DESSARROLLO DE SOFTWARE\eVirtual\django_virtual\pedidos\plantillas'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
